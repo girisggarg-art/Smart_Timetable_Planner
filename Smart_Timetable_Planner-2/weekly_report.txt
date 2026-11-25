@@ -1,0 +1,23 @@
+====================================================
+   SMART TIMETABLE PLANNER - WEEKLY SUMMARY REPORT
+====================================================
+Total Activities : 10
+Total Hours/Week : 15.50 hrs
+Busiest Day      : Monday (6.00 hrs)
+Clashes Detected : 2
+Workload Limit   : 5.0 hrs/day
+----------------------------------------------------
+Hours per Day:
+  Monday    :  6.00 hrs  [OVERLOAD ALERT]
+  Tuesday   :  2.00 hrs  [Balanced]
+  Wednesday :  3.50 hrs  [Moderate]
+  Thursday  :  2.00 hrs  [Balanced]
+  Friday    :  2.00 hrs  [Balanced]
+  Saturday  :  0.00 hrs  [Free Day]
+  Sunday    :  0.00 hrs  [Free Day]
+----------------------------------------------------
+Hours per Activity Type:
+  Class     :  4.50 hrs (29.0%)
+  Lab       :  6.00 hrs (38.7%)
+  Study     :  5.00 hrs (32.3%)
+====================================================
