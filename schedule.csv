@@ -1,0 +1,11 @@
+day,start,end,title,type
+Monday,09:00,10:00,Python Lecture,class
+Monday,09:30,11:00,Digital Design Lab,lab
+Monday,14:00,15:00,Maths Tutorial,class
+Monday,15:30,18:00,Python Coding Lab,lab
+Tuesday,10:00,11:00,English,class
+Tuesday,11:00,12:00,Study Group,study
+Wednesday,13:00,15:00,EVS Assignment,study
+Wednesday,14:30,16:00,Physics Lecture,class
+Thursday,10:00,12:00,Physics Lab,lab
+Friday,11:00,13:00,Revision Session,study
